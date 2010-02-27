@@ -18,11 +18,18 @@
    version="1.0"
    sodipodi:docname="clipboard.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/immanuel/archive/prj/cream/art/creamlooks-icontheme/icons/scalable/mimetypes/text-x-generic.png"
-   inkscape:export-xdpi="45"
-   inkscape:export-ydpi="45">
+   inkscape:export-filename="/home/immanuel/dev/cream/code/src/modules/melange/widgets/Paste Widget/skins/default/paste.png"
+   inkscape:export-xdpi="33.75"
+   inkscape:export-ydpi="33.75">
   <defs
      id="defs5009">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 64 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="128 : 64 : 1"
+       inkscape:persp3d-origin="64 : 42.666667 : 1"
+       id="perspective117" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3733">
@@ -154,14 +161,6 @@
        fx="47.394913"
        fy="69.626129"
        r="41.6875" />
-    <filter
-       inkscape:collect="always"
-       id="filter3723">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.3815099"
-         id="feGaussianBlur3725" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3646"
@@ -584,6 +583,14 @@
        y1="30.427322"
        x2="25.5"
        y2="22.451797" />
+    <filter
+       inkscape:collect="always"
+       id="filter3702">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2894092"
+         id="feGaussianBlur3704" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -595,11 +602,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="103.27163"
-     inkscape:cy="39.728452"
+     inkscape:zoom="8.0000002"
+     inkscape:cx="66.216625"
+     inkscape:cy="120.0112"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3917"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1024"
@@ -615,6 +622,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -634,7 +642,7 @@
            height="101.82338"
            width="82.377937"
            id="rect3705"
-           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3723)"
+           style="fill:none;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:0.84999999999999998;filter:url(#filter3702)"
            transform="matrix(1.0049815,0,0,1.0049815,-10.601271,-2.5402875)" />
         <rect
            style="fill:url(#linearGradient3951);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.50747216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"

@@ -231,9 +231,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="-9.8887621"
-     inkscape:cy="18.648971"
+     inkscape:zoom="1.979899"
+     inkscape:cx="5.4538379"
+     inkscape:cy="38.136361"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -252,7 +252,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -299,7 +299,7 @@
        sodipodi:cy="73.178574"
        sodipodi:cx="73.035713"
        id="path3618"
-       style="opacity:0.50000000000000000;fill:url(#radialGradient3624);fill-opacity:1;stroke:url(#linearGradient3733);stroke-width:0.23678339000000001;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:0.35;fill:url(#radialGradient3624);fill-opacity:1;stroke:url(#linearGradient3733);stroke-width:0.23678339000000001;stroke-miterlimit:4;stroke-dasharray:none"
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
@@ -323,7 +323,7 @@
          sodipodi:type="inkscape:offset" />
       <path
          transform="matrix(0.85495246,0,0,0.85495246,-94.573511,925.16632)"
-         d="M 96.785717,68 A 27.857143,27.857143 0 1 1 41.07143,68 27.857143,27.857143 0 1 1 96.785717,68 z"
+         d="m 96.785717,68 c 0,15.385075 -12.472068,27.857143 -27.857143,27.857143 C 53.543498,95.857143 41.07143,83.385075 41.07143,68 c 0,-15.385075 12.472068,-27.857143 27.857144,-27.857143 15.385075,0 27.857143,12.472068 27.857143,27.857143 z"
          sodipodi:ry="27.857143"
          sodipodi:rx="27.857143"
          sodipodi:cy="68"
@@ -339,7 +339,7 @@
          sodipodi:cy="68"
          sodipodi:rx="27.857143"
          sodipodi:ry="27.857143"
-         d="M 96.785717,68 A 27.857143,27.857143 0 1 1 41.07143,68 27.857143,27.857143 0 1 1 96.785717,68 z"
+         d="m 96.785717,68 c 0,15.385075 -12.472068,27.857143 -27.857143,27.857143 C 53.543498,95.857143 41.07143,83.385075 41.07143,68 c 0,-15.385075 12.472068,-27.857143 27.857144,-27.857143 15.385075,0 27.857143,12.472068 27.857143,27.857143 z"
          transform="matrix(0.85495246,0,0,0.85495246,-94.573511,925.16635)" />
     </g>
     <text

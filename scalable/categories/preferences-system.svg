@@ -17,9 +17,19 @@
    inkscape:version="0.47 r22583"
    version="1.0"
    sodipodi:docname="preferences-system.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="D:\Projekte\cream\art\creamlooks-icontheme\icons\scalable\categories\preferences-system.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs3991">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 64 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="128 : 64 : 1"
+       inkscape:persp3d-origin="64 : 42.666667 : 1"
+       id="perspective181" />
     <linearGradient
        id="linearGradient3959">
       <stop
@@ -1099,9 +1109,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="58.600252"
-     inkscape:cy="76.637264"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="22.286587"
+     inkscape:cy="39.689479"
      inkscape:document-units="px"
      inkscape:current-layer="g2904"
      showgrid="false"
@@ -1119,6 +1129,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

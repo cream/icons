@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,11 +14,11 @@
    height="128"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.47 r22583"
    version="1.0"
    sodipodi:docname="system-search.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/media/immanuel/cream/art/creamlooks-icontheme/system-search.png"
+   inkscape:export-filename="C:\Users\immanuel\Desktop\bitmap.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -502,8 +503,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="72.705845"
-     inkscape:cy="50.926478"
+     inkscape:cx="53.777274"
+     inkscape:cy="74.140764"
      inkscape:document-units="px"
      inkscape:current-layer="g3753"
      showgrid="false"
@@ -511,7 +512,8 @@
      inkscape:window-width="1023"
      inkscape:window-height="722"
      inkscape:window-x="0"
-     inkscape:window-y="25" />
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -520,6 +522,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -572,7 +575,7 @@
          sodipodi:cy="51.480946"
          sodipodi:rx="32.577419"
          sodipodi:ry="32.577419"
-         d="M 98.489872,51.480946 A 32.577419,32.577419 0 1 1 33.335033,51.480946 A 32.577419,32.577419 0 1 1 98.489872,51.480946 z"
+         d="m 98.489872,51.480946 c 0,17.992011 -14.585407,32.577419 -32.577419,32.577419 -17.992012,0 -32.57742,-14.585408 -32.57742,-32.577419 0,-17.992012 14.585408,-32.57742 32.57742,-32.57742 17.992012,0 32.577419,14.585408 32.577419,32.57742 z"
          transform="matrix(1.1283256,0,0,1.1283256,-553.596,398.1173)" />
       <path
          transform="matrix(1.1283256,0,0,1.1283256,-553.596,398.1173)"
@@ -584,7 +587,7 @@
          sodipodi:type="inkscape:offset" />
       <path
          transform="matrix(1.1283256,0,0,1.1283256,-553.596,398.1173)"
-         d="M 98.489872,51.480946 A 32.577419,32.577419 0 1 1 33.335033,51.480946 A 32.577419,32.577419 0 1 1 98.489872,51.480946 z"
+         d="m 98.489872,51.480946 c 0,17.992011 -14.585407,32.577419 -32.577419,32.577419 -17.992012,0 -32.57742,-14.585408 -32.57742,-32.577419 0,-17.992012 14.585408,-32.57742 32.57742,-32.57742 17.992012,0 32.577419,14.585408 32.577419,32.57742 z"
          sodipodi:ry="32.577419"
          sodipodi:rx="32.577419"
          sodipodi:cy="51.480946"

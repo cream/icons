@@ -2,7 +2,7 @@
 Name=creamlooks
 Comment=Default cream Icon Theme
 Example=x-directory-normal
-Inherits=oxygen
+Inherits=Humanity
 
 # Directories
 Directories=scalable/actions,scalable/animations,scalable/animations2,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/filesystems,scalable/mimetypes,scalable/places,scalable/status,scalable/stock
